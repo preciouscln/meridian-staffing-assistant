@@ -7,8 +7,6 @@ A production-deployed AI staffing assistant for Meridian Home Health. The assist
 **HTTPS:** https://54-67-130-19.sslip.io
 
 Authentication is required before accessing the assistant.
-Username: candidate
-Password: precious123
 
 ## Architecture
 
